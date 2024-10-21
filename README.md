@@ -36,8 +36,8 @@ The dataset used for this project is the **Telco Customer Churn** dataset,. It c
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmdmohamedd/customer-churn-prediction
-   cd customer-churn-prediction
+   git clone https://github.com/ahmdmohamedd/customer-churn-prediction-random-forest
+   cd customer-churn-prediction-random-forest
    ```
 
 2. Install dependencies:
